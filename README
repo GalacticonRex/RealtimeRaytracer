@@ -1,0 +1,12 @@
+NAIVE RAY TRACER IMPLEMENTATION
+Will Brennan
+6 May 2016
+
+* Makefile for build
+	o "make' or "make exe"
+
+a few caveats
+	* must have SSE 4.1 compatible Intel processor
+	* must have C++11
+	* must have C++11 thread library 
+	* Windows only :(
